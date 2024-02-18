@@ -1,0 +1,2 @@
+# CODCLAUSE-_TASK_04
+Creating a full-fledged user-friendly voice assistant with a graphical user interface involves several components, including audio recording, speech recognition, natural language processing, and integration with various APIs for providing responses. Below is a simplified example using Python and libraries like PyQt5 for the GUI, SpeechRecognition for voice recognition, and pyttsx3 for text-to-speech conversion. Note that for more complex functionalities, you might need to incorporate additional libraries and APIs.
